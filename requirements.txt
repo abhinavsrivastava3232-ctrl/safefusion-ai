@@ -1,0 +1,10 @@
+opencv-python
+torch
+numpy
+Pillow
+ultralytics
+transformers
+tensorflow
+tensorflow-hub
+pyaudio
+clip-by-openai
