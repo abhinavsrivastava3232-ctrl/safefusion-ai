@@ -1,10 +1,6 @@
-opencv-python
-torch
-numpy
-Pillow
 ultralytics
-transformers
+opencv-python
+numpy
+sounddevice
 tensorflow
-tensorflow-hub
-pyaudio
-clip-by-openai
+tensorflow_hub
